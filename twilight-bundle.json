@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-tw-tw-test2",
+        "en": "tw-tw-tw-test2"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "ashraf@salla.sa",
+    "support_url": "https://salla.partners",
+    "repository": "https://github.com/ashrafreda/tw-tw-tw-test2",
+    "components": []
+}
